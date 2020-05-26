@@ -6,7 +6,7 @@
 Friend Finder application is meant to simulate a simple dating app. The application is implemented using a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server on the back end and the [Bootstrap](https://getbootstrap.com/) CSS framework on the front end.
 
 # Demo
-*FriendFinder* is deployed to Heroku. You can see the demo here.
+*FriendFinder* is deployed to Heroku. You can see the demo [here](https://young-escarpment-43748.herokuapp.com/).
 
 # Installation
 Please type the following commands into your bash/terminal to install
