@@ -33,7 +33,7 @@ module.exports = function(app) {
 		}
 
         // Add new user
-        // friends.push(user);
+        friends.push(user);
 
 		// Send appropriate response
         res.send(friends[bestFriend]);
